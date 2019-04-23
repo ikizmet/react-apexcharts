@@ -1,11 +1,11 @@
 {
-  "name": "react-apexcharts",
+  "name": "ikizmet-react-apexcharts",
   "version": "1.3.3",
   "description": "React.js wrapper for ApexCharts",
   "main": "dist/react-apexcharts.min.js",
   "types": "types/react-apexcharts.d.ts",
   "scripts": {
-    "build": "concurrently \"rollup -c rollup.config.js\" \"gulp\"",
+    "build": "gulp",
     "test": "jest"
   },
   "keywords": [

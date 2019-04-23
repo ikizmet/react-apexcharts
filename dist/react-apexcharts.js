@@ -1,4 +1,7 @@
-import ApexCharts from 'apexcharts/dist/apexcharts.common'
+// Path for local development
+// import ApexCharts from '../../../github/apexcharts/dist/apexcharts.js'
+// Path for production
+import ApexCharts from 'ikizmet-apexcharts/dist/apexcharts.common'
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 
