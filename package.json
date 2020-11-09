@@ -1,8 +1,8 @@
 {
   "name": "ikizmet-react-apexcharts",
-  "version": "1.0.7",
+  "version": "1.0.11",
   "description": "ikizmet forked version of React.js wrapper for ApexCharts",
-  "main": "dist/react-apexcharts.min.js",
+  "main": "dist/react-apexcharts.js",
   "types": "types/react-apexcharts.d.ts",
   "scripts": {
     "build": "gulp",
